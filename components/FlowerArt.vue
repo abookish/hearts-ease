@@ -5,7 +5,7 @@
   </template>
 
 
-<script getImage >
+<!-- <script getImage >
 
 let fetchOptions = {
     headers: { 
@@ -14,4 +14,4 @@ let fetchOptions = {
 }
 }
 let url = 'https://api.wikimedia.org/core/v1/commons/file/File:The_Blue_Marble.jpg';
-</script>
+</script> -->

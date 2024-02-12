@@ -1,5 +1,5 @@
 <template>
-    <FlowerArt/>
+    <div> this is text for art</div>
 </template>
 <script>
 import FlowerArt from '~/components/FlowerArt.vue';
